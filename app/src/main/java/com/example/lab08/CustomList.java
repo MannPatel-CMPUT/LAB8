@@ -20,7 +20,7 @@ public class CustomList {
     }
 
     public void Delete_city(City city){
-
+            cities.remove(city);
     }
 
     
